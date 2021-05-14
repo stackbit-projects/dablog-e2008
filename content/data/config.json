@@ -53,5 +53,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://dablog-e2008.netlify.app"
 }
